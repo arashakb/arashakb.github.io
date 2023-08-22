@@ -198,7 +198,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5 {
-  color: #044498;
+  color: #00306F;
 }
 
 ::-webkit-input-placeholder {
@@ -283,7 +283,7 @@ hr {
     height: 100%;
     position: fixed;
     /*background-color: #5f6d7e;*/
-    background-color: #044498;
+    background-color: #00306F;
     color: white;
     overflow-y: hidden;
 }
