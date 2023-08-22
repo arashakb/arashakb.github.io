@@ -1,2 +1,2 @@
 Hey there!
-I am currently working Adversarial Machine learning
+I am currently working on adversarial machine learning problems in computer vision
