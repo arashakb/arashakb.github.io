@@ -722,7 +722,7 @@ h3.profile-title {
 
 /* Large hover state for animation */
 
-#skills:hover #fill_10,
+/* #skills:hover #fill_10,
 #skills:hover #fill_20,
 #skills:hover #fill_30,
 #skills:hover #fill_40,
@@ -732,7 +732,7 @@ h3.profile-title {
 #skills:hover #fill_80,
 #skills:hover #fill_90 {
   animation: grow 1.4s .3s cubic-bezier(0.39, 0.07, 0.16, 0.97);
-}
+} */
 
 
 /* Keyframe */
