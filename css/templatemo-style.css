@@ -598,7 +598,7 @@ h3.profile-title {
 }
   /* Div for skillset section */
 
-#skills {
+/* #skills {
   border: 4.5px solid #D8D8D8;
   border-radius: 20px;
   padding: 1em 0;
@@ -606,11 +606,11 @@ h3.profile-title {
   max-width: 90%;
   background: #242944;
   display: block;
-}
+} */
 
 /* Skill list items */
 
-.skills_li {
+/* .skills_li {
   letter-spacing: .2em;
   text-transform: uppercase;
   max-font-size: 1.3em;
@@ -626,7 +626,7 @@ h3.profile-title {
   margin-left: 2em;
   list-style-type: none;
   
-}
+} */
 
 
 /* Containers for skill levels */
