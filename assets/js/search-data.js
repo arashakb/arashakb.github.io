@@ -32,8 +32,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-beyond-overall-accuracy-pose-and-occlusion-driven-fairness-analysis-in-pedestrian-detection-for-autonomous-driving-was-accepted-at-ieee-itsc-2025",
           title: 'Our paper Beyond Overall Accuracy: Pose- and Occlusion-driven Fairness Analysis in Pedestrian Detection...',
           description: "",
-          section: "News",},{id: "news-earned-my-m-s-in-computer-engineering-cvla-concentration-computer-vision-machine-learning-and-algorithms-from-northeastern-university-en-route-to-my-ph-d",
-          title: 'Earned my M.S. in Computer Engineering (CVLA concentration — Computer Vision, Machine Learning,...',
+          section: "News",},{id: "news-earned-my-m-s-in-computer-engineering-from-northeastern-university-with-a-concentration-in-computer-vision-machine-learning-and-algorithms-cvla-along-the-way-to-my-ph-d",
+          title: 'Earned my M.S. in Computer Engineering from Northeastern University, with a concentration in...',
           description: "",
           section: "News",},{
       id: 'light-theme',
