@@ -15,10 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in Computer Engineering at [Northeastern University](https://www.northeastern.edu/), advised by Prof. [Yanzhi Wang](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en). My research focuses on efficient deep learning and foundation models. I hold a Bachelor's degree in Computer Science from the [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran).
+I am a PhD student in Computer Engineering at [Northeastern University](https://www.northeastern.edu/), advised by Prof. [Yanzhi Wang](https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en). I am broadly interested in making **physical AI** — vision-language-action models, world models, and the systems around them — more **efficient and practical** to deploy in the real world. My current work focuses on accelerating and compressing foundation models so they can run on the diverse hardware that real robots and edge devices ship with.
 
-Previously, I interned at CNRS with [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) and at CISPA with [Xiao Zhang](https://xiao-zhang.net).
-
-**Research focus.** I develop efficient machine learning techniques to make state-of-the-art models more practical for real-world deployment. My work centers on optimizing foundation models, such as Vision-Language-Action (VLA) models, for scalability and deployment efficiency across diverse hardware platforms.
+Before Northeastern, I earned my M.S. in Computer Engineering from [Northeastern University](https://www.northeastern.edu/) (CVLA: Computer Vision, Machine Learning, and Algorithms) and my B.Sc. in Computer Science from the [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I have also been a research intern at [CNRS](https://www.cnrs.fr/) with [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) and at [CISPA Helmholtz Center for Information Security](https://cispa.de/) with [Xiao Zhang](https://xiao-zhang.net).
 
 Feel free to reach out via email if you'd like to discuss research or potential collaborations.
