@@ -23,17 +23,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-started-my-phd-at-northeastern-university-with-prof-yanzhi-wang",
-          title: 'Started my PhD at Northeastern University with Prof. Yanzhi Wang.',
+        },{id: "news-started-my-direct-phd-in-computer-engineering-at-northeastern-university-with-prof-yanzhi-wang",
+          title: 'Started my direct PhD in Computer Engineering at Northeastern University with Prof. Yanzhi...',
           description: "",
           section: "News",},{id: "news-our-paper-moxin-llm-was-accepted-to-sci-fm-iclr-25",
           title: 'Our paper Moxin-LLM was accepted to SCI-FM @ ICLR’25.',
           description: "",
-          section: "News",},{id: "news-released-the-preprint-of-vote-vision-language-action-optimization-with-trajectory-ensemble-voting-on-arxiv",
-          title: 'Released the preprint of VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting on arXiv....',
-          description: "",
           section: "News",},{id: "news-our-paper-beyond-overall-accuracy-pose-and-occlusion-driven-fairness-analysis-in-pedestrian-detection-for-autonomous-driving-was-accepted-at-ieee-itsc-2025",
           title: 'Our paper Beyond Overall Accuracy: Pose- and Occlusion-driven Fairness Analysis in Pedestrian Detection...',
+          description: "",
+          section: "News",},{id: "news-received-my-m-s-in-computer-engineering-at-northeastern-university-cvla-concentration-computer-vision-machine-learning-and-algorithms-along-the-way-to-my-phd",
+          title: 'Received my M.S. in Computer Engineering at Northeastern University (CVLA concentration: Computer Vision,...',
           description: "",
           section: "News",},{
       id: 'light-theme',
