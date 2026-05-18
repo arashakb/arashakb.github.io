@@ -6,6 +6,44 @@ nav: true
 nav_order: 2
 ---
 
+## Education
+
+<div class="experience-list">
+
+  <div class="exp-item">
+    <div class="exp-logo"><img src="/assets/img/exp/northeastern.png" alt="Northeastern" /></div>
+    <div class="exp-body">
+      <div class="exp-title">Ph.D. in Computer Engineering</div>
+      <div class="exp-org"><a href="https://www.northeastern.edu/">Northeastern University</a> · Boston, MA</div>
+      <div class="exp-dates">Sep 2024 – Present</div>
+      <div class="exp-desc">Advisor: Prof. <a href="https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en">Yanzhi Wang</a>.</div>
+    </div>
+  </div>
+
+  <div class="exp-item">
+    <div class="exp-logo"><img src="/assets/img/exp/northeastern.png" alt="Northeastern" /></div>
+    <div class="exp-body">
+      <div class="exp-title">M.S. in Computer Engineering</div>
+      <div class="exp-org"><a href="https://www.northeastern.edu/">Northeastern University</a> · Boston, MA</div>
+      <div class="exp-dates">Sep 2024 – Apr 2026</div>
+      <div class="exp-desc">CVLA concentration: Computer Vision, Machine Learning, and Algorithms. Earned along the way to my Ph.D.</div>
+    </div>
+  </div>
+
+  <div class="exp-item">
+    <div class="exp-logo"><img src="/assets/img/exp/utehran.png" alt="University of Tehran" /></div>
+    <div class="exp-body">
+      <div class="exp-title">B.Sc. in Computer Science</div>
+      <div class="exp-org"><a href="https://en.ut.ac.ir/">University of Tehran</a> · Tehran, Iran</div>
+      <div class="exp-dates">2020 – 2024</div>
+      <div class="exp-desc">GPA: 3.89/4.0 — Ranked 4th.</div>
+    </div>
+  </div>
+
+</div>
+
+## Research Experience
+
 <div class="experience-list">
 
   <div class="exp-item">
