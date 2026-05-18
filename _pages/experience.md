@@ -4,6 +4,8 @@ permalink: /experience/
 title: Experience
 nav: true
 nav_order: 2
+_styles: >
+  .post-header { display: none; }
 ---
 
 ## Education
