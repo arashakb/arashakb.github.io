@@ -18,7 +18,7 @@ _styles: >
       <div class="exp-title">Ph.D. in Computer Engineering</div>
       <div class="exp-org"><a href="https://www.northeastern.edu/">Northeastern University</a> · Boston, MA</div>
       <div class="exp-dates">Sep 2024 – Present</div>
-      <div class="exp-desc">Advisor: Prof. <a href="https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en">Yanzhi Wang</a>.</div>
+      <div class="exp-desc">Advisor: Prof. <a href="https://www.yanzhiwang.com/index.html">Yanzhi Wang</a>.</div>
     </div>
   </div>
 
