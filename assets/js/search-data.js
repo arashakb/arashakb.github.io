@@ -35,6 +35,9 @@ ninja.data = [{
           section: "News",},{id: "news-earned-my-m-s-in-computer-engineering-from-northeastern-university-with-a-concentration-in-computer-vision-machine-learning-and-algorithms-cvla-along-the-way-to-my-ph-d",
           title: 'Earned my M.S. in Computer Engineering from Northeastern University, with a concentration in...',
           description: "",
+          section: "News",},{id: "news-our-paper-cross-platform-scaling-of-vision-language-action-models-from-edge-to-cloud-gpus-was-accepted-at-glsvlsi-2026",
+          title: 'Our paper Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs was...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
