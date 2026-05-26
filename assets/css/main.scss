@@ -44,7 +44,14 @@ $max-content-width: {{ site.max_width }};
 /* 大屏幕时固定 badge 宽度 */
 @media (min-width: 768px) {
   .abbr {
-    min-width: 120px !important;
+    min-width: 145px !important;
+  }
+  .abbr .badge {
+    white-space: normal;
+    word-break: keep-all;
+    font-size: 0.78rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
   }
 }
 
