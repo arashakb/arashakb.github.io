@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: "* Equal Contribution, † Corresponding Author(s)"
+description: "* Equal Contribution"
 nav: true
 nav_order: 3
 ---

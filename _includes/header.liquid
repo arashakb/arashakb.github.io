@@ -56,6 +56,16 @@
             </a>
           </li>
 
+          <!-- Education (anchor on home) -->
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/#education' | relative_url }}">Education</a>
+          </li>
+
+          <!-- Experience (anchor on home) -->
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/#experience' | relative_url }}">Experience</a>
+          </li>
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
