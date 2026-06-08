@@ -68,8 +68,12 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Experience -->
+    <!-- Education -->
     {% if page.experience %}
+      <h2 id="education">Education</h2>
+      {% include education_section.liquid %}
+
+      <!-- Experience -->
       <h2 id="experience">Experience</h2>
       {% include experience_section.liquid %}
     {% endif %}
