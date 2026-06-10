@@ -2,6 +2,8 @@
 layout: about
 title: About
 permalink: /
+description: "Arash Akbari — PhD student in Computer Engineering at Northeastern University, advised by Prof. Yanzhi Wang. Research on vision-language-action (VLA) models, world action models, and efficient physical AI."
+keywords: "Arash Akbari, Northeastern University, Yanzhi Wang, PhD Computer Engineering, VLA, vision-language-action, world action models, world models, efficient deep learning, physical AI, foundation models, model compression, quantization, robotics"
 subtitle: "PhD Student at Northeastern University · akbari.ara@northeastern.edu"
 
 profile:
