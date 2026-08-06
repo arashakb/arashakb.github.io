@@ -14,7 +14,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: Arash Akbari, Northeastern University, Yanzhi Wang, PhD, Computer Engineering, vision-language-action, VLA, world action models, world models, efficient deep learning, foundation models, physical AI, robotics, model compression, quantization
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon_arash.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon_aa_mint.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://arashakb.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
