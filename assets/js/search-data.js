@@ -31,6 +31,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-cross-platform-scaling-of-vision-language-action-models-from-edge-to-cloud-gpus-was-accepted-at-glsvlsi-2026",
           title: '📄 Our paper Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs...',
           description: "",
+          section: "News",},{id: "news-joined-honda-research-institute-usa-inc-as-a-research-intern",
+          title: '🚀 Joined Honda Research Institute USA, Inc. as a Research Intern.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
