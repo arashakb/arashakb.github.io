@@ -31,8 +31,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-honda-research-institute-usa-inc-as-a-research-intern",
           title: 'Joined Honda Research Institute USA, Inc. as a Research Intern.',
           description: "",
-          section: "News",},{id: "news-actquant-and-palette-accepted-in-neurips-2026-see-you-in-atlanta",
-          title: 'ActQuant and Palette accepted in NeurIPS 2026! See you in Atlanta!',
+          section: "News",},{id: "news-actquant-and-palette-got-accepted-in-neurips-2026-see-you-in-atlanta",
+          title: 'ActQuant and Palette got accepted in NeurIPS 2026! See you in Atlanta!',
           description: "",
           section: "News",},{
       id: 'light-theme',
