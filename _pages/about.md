@@ -21,6 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student in Computer Engineering at [Northeastern University](https://www.northeastern.edu/), advised by Prof. [Yanzhi Wang](https://www.yanzhiwang.com/index.html). My research sits at the intersection of **efficient deep learning** and **physical AI**, with a focus on accelerating **vision-language-action (VLA) models** and **world action models** and making their edge deployment more energy-efficient.
 
-I earned my M.S. in Computer Engineering from [Northeastern University](https://www.northeastern.edu/) and my B.Sc. in Computer Science from the [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I have also been a research intern at [CNRS](https://www.cnrs.fr/) with [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) and at [CISPA](https://cispa.de/) with [Xiao Zhang](https://xiao-zhang.net).
+I earned my M.S. in Computer Engineering from [Northeastern University](https://www.northeastern.edu/) and my B.Sc. in Computer Science from the [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I am currently a Research Intern at [Honda Research Institute USA, Inc.](https://usa.honda-ri.com), and previously interned at [CNRS](https://www.cnrs.fr/) with [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/) and at [CISPA](https://cispa.de/) with [Xiao Zhang](https://xiao-zhang.net).
 
 Feel free to reach out via email if you'd like to discuss research or potential collaborations.
